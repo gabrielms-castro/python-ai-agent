@@ -1,5 +1,6 @@
 venv/
-sandbox/
+sandbox/*
+!sandbox/.gitkeep
 .env
 __pycache__/
 
