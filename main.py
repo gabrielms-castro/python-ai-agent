@@ -31,7 +31,8 @@ def main():
     Bem-vindo ao Coder AI!
     Este é um agente de IA que pode ajudar com tarefas de programação.
     Você pode fazer perguntas ou solicitar ações relacionadas a código.
-    Digite 'sair' para encerrar a sessão."""
+    Digite 'sair' para encerrar a sessão.
+    """
     print(f"{"="*100}{welcome_message}\n{"="*100}\n")
     while True:
         user_input = input("Usuário: ")
